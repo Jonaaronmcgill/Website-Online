@@ -1,1 +1,2 @@
 Testing 1
+testing 2 "Creating a new branch by using checkout -b <newbranch>
