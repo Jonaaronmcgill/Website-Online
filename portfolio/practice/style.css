@@ -1,21 +1,21 @@
 *{
     margin: 0;
     padding: 0;
+
 }
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 
-    position: sticky;
+body{
+    background-color: black;
+}
 
+.header{
     background-color: lightblue;
-    padding: 5px 5%;
-    z-index: 100;
-}
-.nav-left, .nav-right{
+    position: sticky;
+    z-index: 999;
     
 }
-.nav-left a{
-    
+
+
+.content-section{
+    background-color:darkgray;
 }
