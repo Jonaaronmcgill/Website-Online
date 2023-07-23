@@ -4,6 +4,13 @@
        color: rgb(195, 23, 23);
        display: none;
    }
+   .home{
+    
+    background: url("images/IMG-1670.JPG") no-repeat;
+    background-size: 40vh;
+    background-position: 70%;
+    
+   }
    
    
 }
