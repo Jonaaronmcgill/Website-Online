@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: aqua;
+}
+.div1 .logo{
+    margin-left: 5%;
+}
+.div1 .navbar{
+    
+
+}
+.div1 .navbar ul{
+    display: flex;
+    gap: 40px;
+    margin: 10px;
+    
+
+}
+.div1 .navbar ul li{
+    font-size: 20px;
+    
+    
+
+
+    list-style: none;
+}
+.div1 .navbar ul li a{
+    margin-right: 5px;
+
+}
+
+@media (max-width: 600px){
+    body{
+        background-color: green;
+
+    }
+
+    .div1 .navbar ul li{
+        font-size: 0;
+    }
+}
