@@ -1,8 +1,7 @@
 
 @media screen and (max-width: 600px){
     .navbar a{
-       color: rgb(195, 23, 23);
-       display: none;
+       
    }
    .home{
     
@@ -10,6 +9,10 @@
     background-size: 40vh;
     background-position: 70%;
     
+   }
+
+   .navbar{
+
    }
    
    
