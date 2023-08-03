@@ -70,7 +70,7 @@ footer p{
     text-align:center;
     
     
-    background-color: rgba(246, 253, 142,  );
+    background-color: rgb(246, 253, 142);
 }
 
 @media (max-width: 600px){
