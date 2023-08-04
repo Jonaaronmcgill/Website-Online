@@ -55,9 +55,18 @@
     
 }
 .timeline .content{
-    display: inline-block;
-    margin: 30px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    
     background-color: rgb(60, 132, 220);
+    
+    
+    
+}
+.timeline .content p{
+    padding: 100px;
+    
     
     
 }
@@ -65,9 +74,8 @@
 
 
 
-
 footer p{
-    text-align:center;
+    text-align: center;
     
     
     background-color: rgb(246, 253, 142);
